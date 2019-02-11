@@ -8,4 +8,4 @@ Make sure that the serial port is listening at a Baud rate of 9600.
 Have Fun!
 
 # Schematics
-Open the project1.fzz file in Fritzing to view the project schematics and wire diagrams. 
+Open the project1.fzz file in [Fritzing](http://fritzing.org/download/) to view the project schematics and wire diagrams. 
