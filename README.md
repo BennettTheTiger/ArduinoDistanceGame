@@ -1,6 +1,6 @@
 # ArduinoDistanceGame
 A hot and cold distance finding game for my physical computing course.
-Watch the [demo video](https://youtu.be/z3_NquG4n1w)
+Watch the [demo video](https://youtu.be/z3_NquG4n1w).
 
 # Main Program
 Open project1.ino in the [ardiuno IDE](https://www.arduino.cc/en/main/software) and plug your arduino into your computer, compile and upload the sketch. 
