@@ -13,3 +13,6 @@ Open the project1.fzz file in [Fritzing](http://fritzing.org/download/) to view 
 
 # Need Parts?
 Here is a [link](http://a.co/2bNZCs9) to an amazon wishlist with all the required parts
+
+# See More!
+You can see more projects like this on my physical computing [blog here](https://www.tumblr.com/blog/bennettigme470)
